@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  AddPostViewController.swift
 //  I﻿﻿g﻿1﻿0﻿3﻿1
 //
-//  Created by 維衣 on 2023/11/1.
+//  Created by 維衣 on 2023/11/2.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class AddPostViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
